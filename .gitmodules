@@ -1,0 +1,3 @@
+[submodule "lib/freezeframe.js"]
+	path = lib/freezeframe.js
+	url = https://github.com/chrisantonellis/freezeframe.git
