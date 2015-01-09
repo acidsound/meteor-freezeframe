@@ -1,6 +1,6 @@
 Package.describe({
   name: 'spectrum:freezeframe',
-  summary: 'freezeframe.js automatically pauses animated GIFs and enables them to start animation on mouse hover or click.',
+  summary: 'pauses animated GIFs and enables them to start animation on mouse hover or click.',
   version: '2.0.2',
   git: 'https://github.com/acidsound/meteor-freezeframe.git'
 });
