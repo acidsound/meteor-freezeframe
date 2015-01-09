@@ -10,5 +10,5 @@ Package.onUse(function(api) {
   api.use([
     'jquey'
   ], 'client');  
-  api.addFiles('lib/freezeframe.js');
+  api.addFiles('lib/freezeframe.js', 'client');
 });
